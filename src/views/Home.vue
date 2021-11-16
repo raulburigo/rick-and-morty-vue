@@ -1,18 +1,13 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-container fluid class="ma-0 pa-0">
+    <v-img
+      src="https://i.blogs.es/fde0b7/rick-y-morty-temporada-4-diciembre-22-netflix-mexico/1366_2000.jpg"
+    />
+  </v-container>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
 export default {
-  name: 'Home',
-  components: {
-    HelloWorld
-  }
-}
+  name: "Home",
+};
 </script>
