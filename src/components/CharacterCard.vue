@@ -24,7 +24,7 @@
     </v-card-actions>
 
     <v-expand-transition>
-      <div v-show="show">
+      <div v-show="show" data-testid="episodes">
         <v-divider></v-divider>
 
         <v-card-text>
@@ -63,7 +63,6 @@ export default {
   data: function () {
     return {
       show: false,
-      active: false,
     };
   },
 };

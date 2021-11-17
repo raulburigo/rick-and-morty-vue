@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpisodeCard.vue should have a custom title and match snapshot 1`] = `
+<div class="v-lazy" style="min-height: 200px;">
+  <transition-stub name="fade-transition">
+    <div class="v-card v-sheet theme--light elevation-10" shrink="">
+      <div primary-title="" class="v-card__title text-wrap">S01E01 - Pilot</div>
+      <div class="v-card__subtitle">December 2, 2013</div>
+      <hr role="separator" aria-orientation="horizontal" class="mx-4 v-divider theme--light">
+      <div class="v-card__text">
+        <div class="row pt-1">
+          <div class="mr-1 col">
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div><span class="v-tooltip v-tooltip--bottom"><!----></span>
+            <div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px; display: none;" aria-haspopup="true" aria-expanded="false">
+              <div class="v-image v-responsive theme--light">
+                <transition-stub name="fade-transition" mode="in-out">
+                  <div class="v-image__image v-image__image--preload v-image__image--cover" style="background-position: center center;"></div>
+                </transition-stub>
+                <div class="v-responsive__content"></div>
+              </div>
+            </div> <button type="button" class="my-2 ml-2 v-btn v-btn--icon v-btn--outlined v-btn--round theme--light v-size--default" style="color: rgb(27, 102, 31);"><span class="v-btn__content"><i aria-hidden="true" class="v-icon notranslate mdi mdi-plus theme--dark"></i></span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </transition-stub>
+</div>
+`;

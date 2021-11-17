@@ -16,16 +16,14 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="text-h6">
-            <v-img
-              src="https://teepublic.zendesk.com/hc/article_attachments/360040428593/Rick_and_Morty_-_logo__English_.png"
-            ></v-img>
+            <v-img src="@/assets/title.png" alt=""></v-img>
           </v-list-item-title>
         </v-list-item-content>
       </v-list-item>
 
       <v-divider></v-divider>
 
-      <v-list nav>
+      <v-list nav rounded>
         <v-list-item
           v-for="item in navItems"
           :key="item.title"
@@ -59,6 +57,7 @@
             dark
             icon
             :to="icon.to"
+            target="_blank"
           >
             <v-icon size="24px">
               {{ icon.icon }}
