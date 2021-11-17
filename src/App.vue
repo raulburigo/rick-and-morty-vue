@@ -45,7 +45,7 @@
       <router-view></router-view>
     </v-main>
 
-    <v-footer absolute dark padless>
+    <v-footer dark padless>
       <v-card class="flex white--text text-center" flat tile color="#1b661f">
         <v-card-title>
           <v-spacer></v-spacer>
